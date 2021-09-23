@@ -4,6 +4,13 @@ Exploratory data analysis, outlier detection.
 
 ## Requirements
 
+Install python requirements:
+
+```bash
+pip install -r requirements.txt
+```
+
+
 To install jupyter lab git extension: 
 
 ```bash
