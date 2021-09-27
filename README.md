@@ -10,13 +10,6 @@ Install python requirements:
 pip install -r requirements.txt
 ```
 
-
-To install jupyter lab git extension: 
-
-```bash
-pip install --upgrade jupyterlab jupyterlab-git
-```
-
 ## Task
 
 Заданы наблюдения по n объектам, каждый из которых характеризуется 5 числовыми признаками. В данных имеются пропуски и выбросы.
